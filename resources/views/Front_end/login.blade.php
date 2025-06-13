@@ -126,7 +126,8 @@
               </div>
               <!-- /Logo -->
               <h4 class="mb-2">Selamat Datang di Sistem Pakar Ispa! 👋</h4>
-              <p class="mb-4">Silakan masuk ke akun Anda untuk memulai analisis dan temukan solusi berdasarkan penalaran Forward Chaining.</p>
+            <p class="mb-4">Silakan masuk ke akun Anda untuk memulai analisis dan temukan solusi yang sesuai dengan gejala yang Anda masukkan.</p>
+
 
               <form  class="mb-3" action="" method="POST">
                 @csrf
